@@ -1,0 +1,96 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "CD",
+      "children": [
+        {
+          "name": "Channel Development Summary",
+          "children": [
+            {
+              "name": "Office 365",
+              "size": 3938
+            },
+            {
+              "name": "Enterprise Mobility Suite",
+              "size": 3812
+            },
+            {
+              "name": "Power BI",
+              "size": 6714
+            },
+            {
+              "name": "Microsoft Azure",
+              "size": 743
+            }
+          ]
+        },
+        {
+          "name": "Consumption Details",
+          "children": [
+            {
+              "name": "Dynamics 365",
+              "size": 3534
+            },
+            {
+              "name": "Windows",
+              "size": 5731
+            }
+          ]
+        },
+        {
+          "name": "Competency",
+          "children": [
+            {
+              "name": "Unique Competency Partner Summary",
+              "size": 7074
+            },
+            {
+              "name": "Competency Dashboard",
+              "size": 3534
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PPR",
+      "children": [
+        {
+          "name": "CSP Summary",
+          "size": 17010
+        },
+        {
+          "name": "Data Refresh",
+          "size": 5842
+        },
+        {
+          "name": "Partner Performance Reporting Dashboard",
+          "children": [
+            {
+              "name": "PCC",
+              "size": 1983
+            },
+            {
+              "name": "MPN Partner Driven Revenue",
+              "size": 2047
+            },
+            {
+              "name": "P-seller",
+              "size": 1375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SI",
+      "children": [
+        {
+          "name": "SI Dashboard",
+          "size": 4116
+        }
+      ]
+    }
+  ]
+}
